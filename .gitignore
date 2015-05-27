@@ -20,3 +20,4 @@ project/plugins/project/
 # Data dirs
 data/
 out/
+buildUpload.sh
